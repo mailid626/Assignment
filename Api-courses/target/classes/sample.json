@@ -1,0 +1,72 @@
+{
+    "Book": [
+        {
+            "last_name": "IQ",
+            "id": 0,
+            "first_name": "Commerce",
+            "posts": 50
+        },
+        {
+            "last_name": "IQ",
+            "id": 2,
+            "first_name": "Saurabh",
+            "posts": 100
+        },
+        {
+            "last_name": "IQ",
+            "id": 5,
+            "first_name": "Ashar",
+            "posts": 4
+        }
+    ],
+    "posts": [
+        {
+            "reviews": 31,
+            "author": "CIQ",
+            "id": 0,
+            "title": "title1",
+            "views": 100
+        },
+        {
+            "reviews": 10,
+            "author": "JK Rowling",
+            "id": 2,
+            "title": "title3",
+            "views": 10
+        },
+        {
+            "reviews": 20,
+            "author": "George Orwell",
+            "id": 3,
+            "title": "title4",
+            "views": 10
+        },
+        {
+            "reviews": 60,
+            "author": "Shakespeare has lost badly and will never recover ",
+            "id": 5,
+            "title": "title6",
+            "views": 10
+        }
+    ],
+    "authors": [
+        {
+            "last_name": "IQ",
+            "id": 0,
+            "first_name": "Commerce",
+            "posts": 50
+        },
+        {
+            "last_name": "IQ",
+            "id": 2,
+            "first_name": "Saurabh",
+            "posts": 100
+        },
+        {
+            "last_name": "IQ",
+            "id": 5,
+            "first_name": "Ashar",
+            "posts": 4
+        }
+    ]
+}
